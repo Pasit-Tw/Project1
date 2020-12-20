@@ -1,0 +1,36 @@
+.navbar{
+          background-color: green;
+          height:10rem; 
+}
+.navbar_text{
+            background-color: green;
+            height: 10rem;
+  }
+.maejo_header{
+            height: 100px;
+            /*ระยะขอบด้านขวา นอกกล่อง*/
+            margin-left: 3rem;
+}
+.maejo_text{
+            /* ขนาด font */
+            font-size: 50px; 
+            /* ขนาดความหนา */
+            font-weight: bold;
+            color: white;
+            /* เงาตัวอักษร */
+            text-shadow: 2px 2px 4px darkgrey;
+
+}   
+.maejo_eng_text{
+            /* ขนาด font */
+            font-size: 40px; 
+            /* ขนาดความหนา */
+            font-weight: bold;
+            color: white;
+            /* เงาตัวอักษร */
+            text-shadow: 2px 2px 4px darkgrey;
+
+}         
+.slide {
+  border-bottom: 2px grey solid
+}
